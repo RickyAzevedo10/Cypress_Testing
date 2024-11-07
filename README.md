@@ -1,3 +1,6 @@
+teste
+
+teste
 Cypress Testing on Flashscore ⚽
 This repository contains a suite of automated tests for specific functionalities on the Flashscore website, using Cypress. The goal of this project is to ensure that essential features work as expected and to provide a practical end-to-end testing experience.
 
